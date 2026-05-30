@@ -1,5 +1,5 @@
 # Deploy Vue/Vite app to GitHub Pages
-name: Deploy Vite App
+name: Deploy Vite
 
 on:
   push:
